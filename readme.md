@@ -11,4 +11,4 @@ To use a custom shader, follow these steps:
 
 Feel free to explore and modify the shaders to suit your needs. Happy coding!
 
-I will be adding readmes with examples of how the shaders work in the future.
+I will be adding readmes with examples of how the shaders work, the necessary includes, and recommended uniforms.
